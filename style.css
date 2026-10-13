@@ -18,7 +18,7 @@ justify-content: space-between;
 align-items: center;
 height: 78px;
 padding: 0 25px;
-background-color: #111;
+background-color: #192133;
 }
 
 .logo h1 {
@@ -113,7 +113,7 @@ min-height: calc(100vh - 82px);
 width: 250px;
 flex-shrink: 0;
 padding: 20px;
-background-color: #111;
+background-color: #0f172a;
 }
 
 .filter-header {
@@ -176,7 +176,7 @@ cursor: pointer;
 .right {
 width: calc(100% - 250px);
 padding: 25px;
-background-color: #0b0b0b;
+background-color: #0f172a;
 }
 
 .content-header {
